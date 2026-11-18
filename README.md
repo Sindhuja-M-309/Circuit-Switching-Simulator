@@ -134,7 +134,7 @@ public static double calculateErlangB(double trafficErlangs, int channels) {
 
 ### 1. Clone Repository
 ```
-git clone [https://github.com/Sindhuja-M-309/Circuit-Switching-Simulator.git](https://github.com/YOUR_USERNAME/Circuit-Switching-Simulator.git)
+git clone https://github.com/Sindhuja-M-309/Circuit-Switching-Simulator.git 
 cd Circuit-Switching-Simulator
 ```
 ### 2. Compile Codebase
